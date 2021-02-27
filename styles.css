@@ -1,0 +1,21 @@
+body {
+  color: #433520;
+  background-color: #d8c292;
+}
+h1 {
+  font-family: "Righteous", cursive;
+  font-size: 70px;
+}
+button {
+  color: inherit;
+  background-color: #ffee93;
+  padding: 20px;
+  border-color: #433520;
+  border-radius: 1em;
+  font-size: 20px;
+}
+.content {
+  background-color: inherit;
+  padding: 190px 0;
+  text-align: center;
+}
